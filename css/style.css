@@ -1,0 +1,15 @@
+.logo{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+
+
+.bg-red-netflix{
+    background-color: #B20710;
+}
+
+p{
+    text-align: justify;
+    font-size: 18px;
+}
