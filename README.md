@@ -1,1 +1,1 @@
-Pages link: https://thalesbruno0.github.io/17-10-2024/
+Pages link: https://thalesbruno0.github.io/Netflix-e-Bootstrap/
